@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34391" started-at="2022-11-06T19:06:11Z" finished-at="2022-11-06T19:06:45Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.CucumberRunnerTest@197d671]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Default test" duration-ms="34391" started-at="2022-11-06T19:06:11Z" finished-at="2022-11-06T19:06:45Z">
+      <class name="runner.CucumberRunnerTest">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:runner.CucumberRunnerTest@197d671]" name="setUpClass" is-config="true" duration-ms="258" started-at="2022-11-06T19:06:11Z" finished-at="2022-11-06T19:06:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleEventWrapper, io.cucumber.testng.CucumberFeatureWrapper)[pri:0, instance:runner.CucumberRunnerTest@197d671]" name="runScenario" duration-ms="34020" started-at="2022-11-06T19:06:11Z" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2022-11-06T19:06:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["To submit job for UX Designer"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["To test job submission on Kerv"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:runner.CucumberRunnerTest@197d671]" name="tearDownClass" is-config="true" duration-ms="4" started-at="2022-11-06T19:06:45Z" finished-at="2022-11-06T19:06:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.CucumberRunnerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,68 @@
+2022-11-06 19:06:12,270 +0000 [main] INFO  (AppBase.java:41) - Setting up Gecko driver
+2022-11-06 19:06:12,505 +0000 [main] DEBUG (InternalLoggerFactory.java:89) - Using Log4J as the default logging framework
+2022-11-06 19:06:12,519 +0000 [main] DEBUG (ResourceLeakDetector.java:129) - -Dio.netty.leakDetection.level: simple
+2022-11-06 19:06:12,520 +0000 [main] DEBUG (ResourceLeakDetector.java:130) - -Dio.netty.leakDetection.targetRecords: 4
+2022-11-06 19:06:12,533 +0000 [main] DEBUG (ResourceLeakDetectorFactory.java:196) - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6c2ed0cd
+2022-11-06 19:06:12,582 +0000 [main] DEBUG (PlatformDependent0.java:496) - -Dio.netty.noUnsafe: false
+2022-11-06 19:06:12,584 +0000 [main] DEBUG (PlatformDependent0.java:1000) - Java version: 8
+2022-11-06 19:06:12,592 +0000 [main] DEBUG (PlatformDependent0.java:137) - sun.misc.Unsafe.theUnsafe: available
+2022-11-06 19:06:12,595 +0000 [main] DEBUG (PlatformDependent0.java:161) - sun.misc.Unsafe.copyMemory: available
+2022-11-06 19:06:12,598 +0000 [main] DEBUG (PlatformDependent0.java:193) - sun.misc.Unsafe.storeFence: available
+2022-11-06 19:06:12,602 +0000 [main] DEBUG (PlatformDependent0.java:236) - java.nio.Buffer.address: available
+2022-11-06 19:06:12,606 +0000 [main] DEBUG (PlatformDependent0.java:307) - direct buffer constructor: available
+2022-11-06 19:06:12,608 +0000 [main] DEBUG (PlatformDependent0.java:385) - java.nio.Bits.unaligned: available, true
+2022-11-06 19:06:12,609 +0000 [main] DEBUG (PlatformDependent0.java:459) - jdk.internal.misc.Unsafe.allocateUninitializedArray(int): unavailable prior to Java9
+2022-11-06 19:06:12,610 +0000 [main] DEBUG (PlatformDependent0.java:482) - java.nio.DirectByteBuffer.<init>(long, int): available
+2022-11-06 19:06:12,612 +0000 [main] DEBUG (PlatformDependent.java:1159) - sun.misc.Unsafe: available
+2022-11-06 19:06:12,617 +0000 [main] DEBUG (PlatformDependent.java:1289) - -Dio.netty.tmpdir: C:\Users\vijaya\AppData\Local\Temp (java.io.tmpdir)
+2022-11-06 19:06:12,618 +0000 [main] DEBUG (PlatformDependent.java:1368) - -Dio.netty.bitMode: 64 (sun.arch.data.model)
+2022-11-06 19:06:12,619 +0000 [main] DEBUG (PlatformDependent.java:1119) - Platform: Windows
+2022-11-06 19:06:12,622 +0000 [main] DEBUG (PlatformDependent.java:178) - -Dio.netty.maxDirectMemory: 3799515136 bytes
+2022-11-06 19:06:12,622 +0000 [main] DEBUG (PlatformDependent.java:185) - -Dio.netty.uninitializedArrayAllocationThreshold: -1
+2022-11-06 19:06:12,626 +0000 [main] DEBUG (CleanerJava6.java:92) - java.nio.ByteBuffer.cleaner(): available
+2022-11-06 19:06:12,627 +0000 [main] DEBUG (PlatformDependent.java:205) - -Dio.netty.noPreferDirect: false
+2022-11-06 19:06:12,647 +0000 [main] DEBUG (PlatformDependent.java:1010) - org.jctools-core.MpscChunkedArrayQueue: available
+2022-11-06 19:06:12,687 +0000 [main] DEBUG (InternalThreadLocalMap.java:86) - -Dio.netty.threadLocalMap.stringBuilder.initialSize: 1024
+2022-11-06 19:06:12,687 +0000 [main] DEBUG (InternalThreadLocalMap.java:89) - -Dio.netty.threadLocalMap.stringBuilder.maxSize: 4096
+2022-11-06 19:06:12,714 +0000 [main] DEBUG (JdkSslContext.java:83) - Default protocols (JDK): [TLSv1.2, TLSv1.1, TLSv1] 
+2022-11-06 19:06:12,714 +0000 [main] DEBUG (JdkSslContext.java:84) - Default cipher suites (JDK): [TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA]
+2022-11-06 19:06:12,767 +0000 [main] DEBUG (MultithreadEventLoopGroup.java:44) - -Dio.netty.eventLoopThreads: 8
+2022-11-06 19:06:12,784 +0000 [main] DEBUG (NioEventLoop.java:110) - -Dio.netty.noKeySetOptimization: false
+2022-11-06 19:06:12,785 +0000 [main] DEBUG (NioEventLoop.java:111) - -Dio.netty.selectorAutoRebuildThreshold: 512
+2022-11-06 19:06:12,851 +0000 [main] DEBUG (PooledByteBufAllocator.java:157) - -Dio.netty.allocator.numHeapArenas: 8
+2022-11-06 19:06:12,852 +0000 [main] DEBUG (PooledByteBufAllocator.java:158) - -Dio.netty.allocator.numDirectArenas: 8
+2022-11-06 19:06:12,852 +0000 [main] DEBUG (PooledByteBufAllocator.java:160) - -Dio.netty.allocator.pageSize: 8192
+2022-11-06 19:06:12,852 +0000 [main] DEBUG (PooledByteBufAllocator.java:165) - -Dio.netty.allocator.maxOrder: 9
+2022-11-06 19:06:12,853 +0000 [main] DEBUG (PooledByteBufAllocator.java:169) - -Dio.netty.allocator.chunkSize: 4194304
+2022-11-06 19:06:12,853 +0000 [main] DEBUG (PooledByteBufAllocator.java:170) - -Dio.netty.allocator.smallCacheSize: 256
+2022-11-06 19:06:12,854 +0000 [main] DEBUG (PooledByteBufAllocator.java:171) - -Dio.netty.allocator.normalCacheSize: 64
+2022-11-06 19:06:12,854 +0000 [main] DEBUG (PooledByteBufAllocator.java:172) - -Dio.netty.allocator.maxCachedBufferCapacity: 32768
+2022-11-06 19:06:12,855 +0000 [main] DEBUG (PooledByteBufAllocator.java:173) - -Dio.netty.allocator.cacheTrimInterval: 8192
+2022-11-06 19:06:12,856 +0000 [main] DEBUG (PooledByteBufAllocator.java:174) - -Dio.netty.allocator.cacheTrimIntervalMillis: 0
+2022-11-06 19:06:12,856 +0000 [main] DEBUG (PooledByteBufAllocator.java:175) - -Dio.netty.allocator.useCacheForAllThreads: false
+2022-11-06 19:06:12,856 +0000 [main] DEBUG (PooledByteBufAllocator.java:176) - -Dio.netty.allocator.maxCachedByteBuffersPerChunk: 1023
+2022-11-06 19:06:12,939 +0000 [main] DEBUG (ByteBufUtil.java:87) - -Dio.netty.allocator.type: pooled
+2022-11-06 19:06:12,939 +0000 [main] DEBUG (ByteBufUtil.java:96) - -Dio.netty.threadLocalDirectBufferSize: 0
+2022-11-06 19:06:12,939 +0000 [main] DEBUG (ByteBufUtil.java:99) - -Dio.netty.maxThreadLocalCharBufferSize: 16384
+2022-11-06 19:06:13,913 +0000 [Forwarding newSession on session null to remote] DEBUG (DefaultChannelId.java:79) - -Dio.netty.processId: 18468 (auto-detected)
+2022-11-06 19:06:13,917 +0000 [Forwarding newSession on session null to remote] DEBUG (NetUtil.java:136) - -Djava.net.preferIPv4Stack: false
+2022-11-06 19:06:13,918 +0000 [Forwarding newSession on session null to remote] DEBUG (NetUtil.java:137) - -Djava.net.preferIPv6Addresses: false
+2022-11-06 19:06:14,186 +0000 [Forwarding newSession on session null to remote] DEBUG (NetUtilInitializations.java:129) - Loopback interface: lo (Software Loopback Interface 1, 127.0.0.1)
+2022-11-06 19:06:14,189 +0000 [Forwarding newSession on session null to remote] DEBUG (NetUtil.java:191) - Failed to get SOMAXCONN from sysctl and file \proc\sys\net\core\somaxconn. Default: 200
+2022-11-06 19:06:14,470 +0000 [Forwarding newSession on session null to remote] DEBUG (DefaultChannelId.java:101) - -Dio.netty.machineId: b4:6d:83:ff:fe:d1:07:c7 (auto-detected)
+2022-11-06 19:06:14,575 +0000 [AsyncHttpClient-1-2] DEBUG (AbstractByteBuf.java:63) - -Dio.netty.buffer.checkAccessible: true
+2022-11-06 19:06:14,575 +0000 [AsyncHttpClient-1-2] DEBUG (AbstractByteBuf.java:64) - -Dio.netty.buffer.checkBounds: true
+2022-11-06 19:06:14,576 +0000 [AsyncHttpClient-1-2] DEBUG (ResourceLeakDetectorFactory.java:196) - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@6a73f28a
+2022-11-06 19:06:14,614 +0000 [AsyncHttpClient-1-2] DEBUG (Recycler.java:85) - -Dio.netty.recycler.maxCapacityPerThread: 4096
+2022-11-06 19:06:14,615 +0000 [AsyncHttpClient-1-2] DEBUG (Recycler.java:86) - -Dio.netty.recycler.ratio: 8
+2022-11-06 19:06:14,615 +0000 [AsyncHttpClient-1-2] DEBUG (Recycler.java:87) - -Dio.netty.recycler.chunkSize: 32
+2022-11-06 19:06:14,616 +0000 [AsyncHttpClient-1-2] DEBUG (Recycler.java:88) - -Dio.netty.recycler.blocking: false
+2022-11-06 19:06:18,601 +0000 [AsyncHttpClient-1-2] DEBUG (Brotli.java:38) - brotli4j not in the classpath; Brotli support will be unavailable.
+2022-11-06 19:06:24,446 +0000 [main] INFO  (HomePage.java:34) - Clicking on Accept cookies
+2022-11-06 19:06:26,143 +0000 [main] INFO  (HomePage.java:51) - Clicking on Career->Job Opportunities
+2022-11-06 19:06:27,570 +0000 [main] INFO  (HomePage.java:71) - Clicking on Job with name UX Designer
+2022-11-06 19:06:29,966 +0000 [main] INFO  (JobDetails.java:40) - Scrolling to Apply Today
+2022-11-06 19:06:30,585 +0000 [main] INFO  (JobDetails.java:56) - Filling candidate details
+2022-11-06 19:06:31,355 +0000 [main] INFO  (JobDetails.java:73) - Uploading resume
+2022-11-06 19:06:39,604 +0000 [main] INFO  (JobDetails.java:103) - Agree conditions and submit
+2022-11-06 19:06:45,924 +0000 [main] INFO  (AppBase.java:69) - Closed the browser
